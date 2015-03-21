@@ -21,7 +21,7 @@ file for further much more detailed information on the RAW data.
 each row is on of the 30 subjects
 each coloum states the _Activity.variable.statistics_
 
- _avtivities_
+ _avtivities:_
  - "WALKING"
  - "WALKING_UPSTAIRS"
  - "WALKING_DOWNSTAIRS"
@@ -29,13 +29,13 @@ each coloum states the _Activity.variable.statistics_
  - "STANDING"
  - "LAYING"
 
- _variables_
+ _variables:_
  - t : timedomain
  - f : frequency domain
  - bodyAcc: gravity corrected acceleration
  - totalAcc: smartphone accelerometer X axis in standard gravity units 'g'
  - bodygyrp: angular velocity vector measured by the gyroscope
 
- _statistics_
+ _statistics:_
  - mean : average value
  - std : standard deviation
